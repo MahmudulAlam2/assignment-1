@@ -1,0 +1,80 @@
+body{
+    font-family: 'Poppins', sans-serif;
+	
+	margin: 5% 10% 0% 10%; 
+}
+h1{
+    font-size: 50PX;
+}
+.name-coloring{
+    color: #b7ce38;
+}
+.half-width{
+    width: 50%;
+    float: left;
+
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(175, 185, 113), rgb(25, 106, 182));
+    padding: 10px 20px;
+    border-radius: white;
+    font-weight: 800px; 
+}
+section{
+    height: 600px;
+    padding-bottom: 150px;
+}
+.divthirtcolor{
+    color: crimson;
+}
+.thirtdiv-part{
+  text-align: center;
+}
+.thirt-part{
+    box-sizing: border-box;
+    
+}
+.column{
+    float:left;
+    width: 25%;
+    padding: 0px;
+    text-align: center;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    margin: 0px 20px 0px 20px;
+}
+.column img{
+   
+    height: 250px;
+   
+    
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(175, 185, 113), rgb(25, 106, 182));
+    padding:0px;
+    border-radius: white;
+    width: 7%;
+    text-align: center;
+    
+}
+.four-part{
+	background-color: rgb(27, 27, 245);
+	border-radius: 20px;
+	width: 100%;
+}
+.fourd{
+	color: white;
+	
+}
+.fourh a{
+	text-decoration-line: none;
+	 background-image: linear-gradient(rgb(175, 185, 113), rgb(25, 106, 182));
+    padding: 10px 20px;
+    border-radius: white;
+    font-weight: 800px; 
+}
