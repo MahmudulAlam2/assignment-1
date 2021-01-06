@@ -22,7 +22,9 @@ h1{
     background-image: linear-gradient(rgb(175, 185, 113), rgb(25, 106, 182));
     padding: 10px 20px;
     border-radius: white;
-    font-weight: 800px; 
+    font-weight: 800px;
+	border-radius: 10px;
+	
 }
 section{
     height: 600px;
@@ -60,21 +62,31 @@ section{
     border-radius: white;
     width: 7%;
     text-align: center;
+	
     
 }
 .four-part{
 	background-color: rgb(27, 27, 245);
-	border-radius: 20px;
-	width: 100%;
+	 border-radius: 20px;
+	width: 100%; 
+    height: auto;
+    padding-bottom: 10px;
+    min-height: 170px;
+}
+.four-part h1{
+    line-height: 50px;
 }
 .fourd{
 	color: white;
-	
-}
+    padding: 20px 30px;
+} 
 .fourh a{
 	text-decoration-line: none;
 	 background-image: linear-gradient(rgb(175, 185, 113), rgb(25, 106, 182));
-    padding: 10px 20px;
+    padding: 0px 20px;
     border-radius: white;
     font-weight: 800px; 
+	border-radius: 10px;
+	font-size:24px;
+    float: right;
 }
